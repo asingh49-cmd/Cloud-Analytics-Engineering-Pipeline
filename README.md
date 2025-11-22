@@ -123,7 +123,7 @@ EndtoEnd_Sakila-Analytics-Pipeline/
 ├── snowflake streamlit app/
 │ ├── streamlit_app.py
 │ ├── streamlit_app_screenshots.docx
-│ └── requirements.txt
+│ └── requirements.rtf
 │
 ├── tableau dashboard/
 │ ├── tableau_dashboard_screenshots.docx
